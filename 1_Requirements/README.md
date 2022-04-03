@@ -30,10 +30,13 @@ SWOT ANALYSIS
 4W's and 1'H
 
 Who
-          All people
+  
+ All people
+
 What
 
 It is used to withdraw and check the account balance of one  person’s account
+
 When	
 
 While withdrawing money from bank account
@@ -41,6 +44,7 @@ While withdrawing money from bank account
 Where
 
 In banks,colleges,hospitals.
+
 How
 
 By creating set of instructions for banking management by checking the bank balance,depositing the money to the bank account and withdraw the money from the bank through ATM’s.
